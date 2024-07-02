@@ -1,1 +1,17 @@
- Hello buddy
+Hello buddy
+Adios amigo 
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello from home1 branch
+=======
+Hello from home2
+<<<<<<< HEAD
+>>>>>>> 9297404 (push from home2)
+=======
+Edited from office home1
+
+>>>>>>> 22a341d (from home1)
+=======
+Hello from home2
+edited by home2 from office
+>>>>>>> c093717 (form home2)
