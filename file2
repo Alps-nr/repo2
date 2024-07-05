@@ -2,6 +2,7 @@ Hello buddy
 Adios amigo 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello from home1 branch
 =======
 Hello from home2
@@ -15,3 +16,8 @@ Edited from office home1
 Hello from home2
 edited by home2 from office
 >>>>>>> c093717 (form home2)
+=======
+Hello from home2
+Edited from office home1
+
+>>>>>>> cc6efb9ac82f34d0d35eeb74e5173648a075c0fd
